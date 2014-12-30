@@ -4,4 +4,4 @@
 2. Second Assignment was to blur the image 3. Second Assigment was to HDRtonemap an image***
 
 ###Note
-**Projects Include only files with parallel part for the GPU**   
+**Projects Include only files with parallel part for the GPU except the third project**   
